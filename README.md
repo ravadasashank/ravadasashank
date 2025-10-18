@@ -1,25 +1,19 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=50)
 
-## 🌟 Professional Summary
-
-Innovative Computer Science student and passionate technologist deeply interested in DevOps, Cloud Engineering (AWS, Azure, GCP), infrastructure automation (Docker, Kubernetes, Terraform, Jenkins, GitHub Actions), and scalable, resilient systems. Adept at developing APIs, building CI/CD pipelines, and working with blockchain technologies (Solidity, Foundry). Always eager to learn, collaborate, and drive impactful results in dynamic tech environments.
-
----
-
-## 👋 Hello Everyone
-
-I'm **Ravada Sashank**, a passionate developer focused on building innovative solutions and learning new technologies.
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravadasashank&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravadasashank&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Currently pursuing **B.Tech** in Computer Science
-- 💻 Passionate about **coding** and **software development**
-- 🌱 Always learning and exploring new technologies
-- 🔍 Interested in **File System Optimization** and **AI/ML Applications**
-- 🔗 Exploring **Blockchain Development** and **API Design**
-- 💡 Love working on innovative projects that solve real-world problems
-- 🤝 Open to collaborating on exciting projects
+<div align="center">
+  <i>"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein</i>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
